@@ -4,9 +4,9 @@ I currently work at [PT Mohairson Pawan Khatulistiwa](https://mopakha.id) as a C
 
 ## Skills
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
 
 ## IDE
 
@@ -22,6 +22,6 @@ I currently work at [PT Mohairson Pawan Khatulistiwa](https://mopakha.id) as a C
 
 ## Projects
 
-Currently, I'm working on a project to develop a web-based application for forest and land fire risk forecasting in peatlands. The application is developed using Python with [Streamlit](https://streamlit.io). Unfortunately, The application will be used only for internal staff.
+Currently, I'm working on a project to develop a web-based application for forest and land fire risk forecasting in peatlands. I use [Weather Research Forecasting](https://www.mmm.ucar.edu/models/wrf) as an input to fire risk model. I make an automation script in R so that the model can updated daily. The application is developed using Python with [Streamlit](https://streamlit.io) package (previously in [R Shiny](https://shiny.posit.co). Unfortunately, The application is used only for internal staff. 
 
 Other individual project, like developing the R package for installing and post-processing the [Weather Research Forecasting](https://github.com/agungbaruna/Rwrf) is still under development. The package is intended to make it easier for users to install WRF and post-process its output.
