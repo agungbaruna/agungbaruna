@@ -18,10 +18,10 @@ I currently work at [PT Mohairson Pawan Khatulistiwa](https://mopakha.id) as a C
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absen)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/agungbaruna)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agungbaruna/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agungbaruna)
 
 ## Projects
 
-Currently, I'm working on a project to develop a web-based application for forest and land fire risk forecasting in peatlands. I use [Weather Research Forecasting](https://www.mmm.ucar.edu/models/wrf) as an input to fire risk model. I make an automation script in R so that the model can updated daily. The application is developed using Python with [Streamlit](https://streamlit.io) package (previously in [R Shiny](https://shiny.posit.co). Unfortunately, The application is used only for internal staff. 
+Currently, I'm working on developing a web-based application for forest and land fire risk forecasting in peatlands. The application is developed using Python with [Streamlit](https://streamlit.io) package (previously in [R language with Shiny package](https://shiny.posit.co). Unfortunately, The application I made is only used for internal staff. I use [Weather Research Forecasting](https://www.mmm.ucar.edu/models/wrf) as an input to fire risk model. Also, I make an automation script in R so that the model can updated daily.  
 
-Other individual project, like developing the R package for installing and post-processing the [Weather Research Forecasting](https://github.com/agungbaruna/Rwrf) is still under development. The package is intended to make it easier for users to install WRF and post-process its output.
+Other individual project, like developing the R package for installing and post-processing the [Weather Research Forecasting](https://github.com/agungbaruna/Rwrf) is still under development. The package is intended to make it easier for installing WRF and visualizing the output.
